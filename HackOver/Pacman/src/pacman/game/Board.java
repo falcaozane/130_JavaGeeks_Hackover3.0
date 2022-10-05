@@ -503,7 +503,7 @@ public class Board extends JPanel  implements ActionListener{
 		
 		
 		short i = 0;
-		int x,y;
+		int x,y; 
 		
 		for (y=0; y<SCREEN_SIZE; y+=BLOCK_SIZE) {
 			for(x = 0; x<SCREEN_SIZE; x+=BLOCK_SIZE) {
@@ -553,7 +553,7 @@ public class Board extends JPanel  implements ActionListener{
 	  
 	  Graphics2D g2d = (Graphics2D) g;
 	  
-	  g2d.setColor(Color.black);
+	  g2d.setColor(Color.black); // background color
 	  g2d.fillRect(0,0,d.width, d.height);
 	  
 	  doAnim();
