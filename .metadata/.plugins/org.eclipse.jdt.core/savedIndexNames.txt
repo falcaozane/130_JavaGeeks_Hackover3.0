@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\JAVA\lab1\130_JavaGeeks_Hackover3.0\.metadata\.plugins\org.eclipse.jdt.core
+3484044706.index
+1865797976.index
+1079061649.index
